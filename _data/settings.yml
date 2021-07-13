@@ -9,11 +9,11 @@ menu:
 # Projects Section
 
 projects:
-- {name: '', url: 'proj-1'}
-- {name: '', url: 'proj-2'}
-- {name: '', url: 'proj-3'}
-- {name: '', url: 'proj-4'}
-- {name: '', url: 'proj-5'}
+- {name: '风格化树', url: 'proj-1'}
+- {name: '卡通水', url: 'proj-2'}
+- {name: '水墨', url: 'proj-3'}
+- {name: '消融', url: 'proj-4'}
+- {name: '护盾', url: 'proj-5'}
 
 #-------------------------------
 # Contact Section
