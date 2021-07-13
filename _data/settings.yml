@@ -9,11 +9,11 @@ menu:
 # Projects Section
 
 projects:
-- {name: '',   url: 'proj-1'}
-- {name: '',   url: 'proj-2'}
+- {name: '', url: 'proj-1'}
+- {name: '', url: 'proj-2'}
 - {name: '', url: 'proj-3'}
-- {name: '',  url: 'proj-4'}
-- {name: '',  url: 'proj-5'}
+- {name: '', url: 'proj-4'}
+- {name: '', url: 'proj-5'}
 
 #-------------------------------
 # Contact Section
