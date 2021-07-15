@@ -11,9 +11,10 @@ menu:
 projects:
 - {name: '风格化树', url: 'proj-1'}
 - {name: '卡通水', url: 'proj-2'}
-- {name: '水墨', url: 'proj-3'}
-- {name: '消融', url: 'proj-4'}
-- {name: '护盾', url: 'proj-5'}
+- {name: '描边', url: 'proj-3'}
+- {name: '水墨', url: 'proj-4'}
+- {name: '消融', url: 'proj-5'}
+- {name: '卡通石头', url: 'proj-6'}
 
 #-------------------------------
 # Contact Section
