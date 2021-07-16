@@ -3,4 +3,7 @@ layout: post
 title: '风格化树'
 ---
 制作软件：Blender、Photoshop、Unity3D
-[![WEWdfI.png](https://z3.ax1x.com/2021/07/13/WEWdfI.png)](https://imgtu.com/i/WEWdfI)
+<!-- mp4格式 -->
+<video id="video" controls="" preload="none" poster="封面">
+      <source id="mp4" src="{{ site.github.url }}/assets/video/{{ include.image }}" type="video/mp4">
+</videos>
